@@ -1,1 +1,2 @@
 # Enhanced-Rock-Weathering
+This repository supports the creation of future scenarios for enhanced rock weathering (ERW) projects, analyzes ERW potential across different regions, and evaluates decarbonization performance in major agricultural areas, high-GDP regions, and low-GDP regions. Additionally, it assesses the economic potential of ERW under different carbon pricing scenarios. The analysis is based on publicly available datasets, which have been preprocessed using ArcGIS Pro.
